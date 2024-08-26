@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding, learning and creating
 - 🌱 I’m currently learning ... HTML/CSS/JAVASCRIPT/PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kalzone99@gmail.com  
+- 📫 How to reach me kalzone99@gmail.com  
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
 
