@@ -1,0 +1,81 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 10%;
+}
+.container {
+    border: 5px solid darkgray;
+    padding: 10px;
+    margin: 10px auto;
+}
+.color-container {
+    width: 100%;
+    display:block;
+}
+.color-panel {
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    border-radius: 30%;
+    margin: 3px auto; 
+    padding: 2px auto;   
+} 
+.color1 {
+    background-color:aquamarine;
+    font-weight: bold;
+}
+.color2 {
+    background-color: blueviolet;
+    font-weight: bold;
+    color:white;
+}
+.color3 {
+    background-color: darkblue;
+    font-weight: bold;
+    color:yellow;
+}
+.color4 {
+    background-color: gold;
+    font-weight: bold;
+}
+.color5 {
+    background-color:maroon;
+    font-weight: bold;
+    color:white;
+}
+.color6 {
+    background-color: #004D0D;
+    font-weight: bold;
+    color:yellow;
+}
+.font-panel {
+    width: 40%;
+    display: inline-block;
+}
+.font-label {
+    text-decoration: underline;
+    font-size: 26px;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.font1 {
+    font-family: Arial sans-serif;
+}
+.font2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.font3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.font4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-panel h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-panel p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
