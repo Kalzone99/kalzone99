@@ -43,7 +43,7 @@ I'm currently focusing on building projects that combine the power of **React** 
 
 I'd love to connect and collaborate with other developers and professionals in the tech community. Feel free to reach out!
 
-- **Email:** [kselvais@gmail.com](mailto:kselvais@gmail.com)  
+- **Email:** [kselvais99@gmail.com](mailto:kselvais@gmail.com)  
 - **LinkedIn:** [www.linkedin.com/in/kevin-selvais](https://www.linkedin.com/in/kevin-selvais)  
 - **GitHub:** [https://github.com/Kalzone99](https://github.com/Kalzone99)
 
